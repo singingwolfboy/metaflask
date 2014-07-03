@@ -1,0 +1,6 @@
+Name: Bruno Rocha
+Twitter: @rochacbruno
+Github: rochacbruno
+Email: rochacbruno@gmail.com
+
+Creator and maintainer of Quokka CMS and Flask-GoogleMaps extension.
