@@ -1,6 +1,6 @@
 Flask-SocketIO
 
 The Flask-SocketIO project adds support for bi-directional, low-latency
-client-server communication to Flask applications. This extension implementes a 
+client-server communication to Flask applications. This extension implements a
 Flask friendly interface to the socket.io client-side library and the
 gevent-socketio server.
