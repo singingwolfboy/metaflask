@@ -7,6 +7,9 @@
     closest equivalent to stewardship that Flask has and currently
     starting up.
 
+    Some of the information of this repository is available at
+    http://metaflask.pocoo.org/ as a read-only JSON API.
+
   What does it do?
 
     The Metaflask project's aim is to ensure that the Flask ecosystem
