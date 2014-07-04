@@ -10,6 +10,8 @@
     Some of the information of this repository is available at
     http://metaflask.pocoo.org/ as a read-only JSON API.
 
+    An IRC Channel exists at #metaflask on irc.freenode.net
+
   What does it do?
 
     The Metaflask project's aim is to ensure that the Flask ecosystem
