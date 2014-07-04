@@ -1,0 +1,8 @@
+Name: Flask-HTTPAuth
+Website: https://github.com/miguelgrinberg/Flask-HTTPAuth
+Github: miguelgrinberg/Flask-HTTPAuth
+Bugtracker: https://github.com/miguelgrinberg/Flask-HTTPAuth/issues
+Documentation: https://pythonhosted.org/Flask-HTTPAuth
+PyPI: Flask-HTTPAuth
+License: MIT
+Status: active

@@ -1,0 +1,8 @@
+Name: Flask-Migrate
+Website: https://github.com/miguelgrinberg/Flask-Migrate
+Github: miguelgrinberg/Flask-Migrate
+Bugtracker: https://github.com/miguelgrinberg/Flask-Migrate/issues
+Documentation: https://pythonhosted.org/Flask-Migrate
+PyPI: Flask-Migrate
+License: MIT
+Status: active
