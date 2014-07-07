@@ -3,6 +3,6 @@ Website: http://click.pocoo.org/
 Github: mitsuhiko/click
 Bugtracker: https://github.com/mitsuhiko/click/issues
 Documentation: http://click.pocoo.org/
-PyPI: Click
+PyPI: click
 License: BSD
 Status: active
