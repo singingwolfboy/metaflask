@@ -27,6 +27,21 @@
     Metaflask project does not really have a clear form of governance.
     It is whatever the members of the project decide it is.
 
+  How do I add my project?
+
+    You do not need to be a member to add your project.  Just send a
+    pull request against this repository with your own project added
+    and off you go.  Do not add a steward to the project.  Someone will
+    add it later.  Not all projects will have stewards at the beginning.
+
+  How do projects get stewards?
+
+    Any member can become a steward for a project.  For more information
+    see stewardship below.  To see projects that currently do not have
+    members this API lists them all:
+    
+    http://metaflask.pocoo.org/needs-stewards
+
   Who are the members?
 
     For the current members have a look at the members folder in the
