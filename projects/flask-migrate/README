@@ -1,0 +1,4 @@
+Flask-Migrate
+
+The Flask-Migrate project brings nicely integrated Alembic database migrations
+to Flask and SQLAlchemy applications.

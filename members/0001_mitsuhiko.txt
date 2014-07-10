@@ -2,6 +2,7 @@ Name: Armin Ronacher
 Twitter: @mitsuhiko
 Github: mitsuhiko
 E-Mail: armin.ronacher@active-4.com
+Sponsor: <self>
 
 Armin Ronacher is the creator of the Flask framework and some of the
 libraries that Flask is based upon.

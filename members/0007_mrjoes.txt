@@ -2,6 +2,6 @@ Name: Serge Koval
 Twitter: @mrjoez
 Github: mrjoes
 Email: serge.koval@gmail.com
+Sponsor: mitsuhiko
 
 Creator and maintainer of Flask-Admin extension.
-

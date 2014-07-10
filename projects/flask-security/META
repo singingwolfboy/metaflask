@@ -1,0 +1,8 @@
+Name: Flask-Security
+Website: https://github.com/mattupstate/flask-security
+Github: mattupstate/flask-security
+Bugtracker: https://github.com/mattupstate/flask-security/issues
+Documentation: https://pythonhosted.org/Flask-Security/
+PyPI: Flask-Security
+License: MIT
+Status: active

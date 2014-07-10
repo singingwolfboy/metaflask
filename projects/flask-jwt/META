@@ -1,0 +1,8 @@
+Name: Flask-JWT
+Website: https://github.com/mattupstate/flask-jwt
+Github: mattupstate/flask-jwt
+Bugtracker: https://github.com/mattupstate/flask-jwt/issues
+Documentation: https://pythonhosted.org/Flask-JWT/
+PyPI: Flask-JWT
+License: MIT
+Status: active

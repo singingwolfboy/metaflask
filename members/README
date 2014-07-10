@@ -9,12 +9,14 @@ Metaflask Members
      where number is increasing with each member added.  Numbers are
      never reused.  The id is the github username.
 
-     If a member becomes inactive the extension is changed to
-     `.inactive.txt`.
+     If a member becomes inactive the key "Active" needs to be set
+     to "no" in the member file.
 
      The content of the file is a mime header (Key + colon + value)
      similarly to email to HTTP.  Then an optional body with some
-     text in plain text format separated by a newline.
+     text in plain text format separated by a newline.  Each member
+     needs to have a "Sponsor" key that defines who sponsored that
+     member.
 
   -- Pull Requests
 

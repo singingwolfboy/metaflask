@@ -1,0 +1,8 @@
+Name: Flask-SocketIO
+Website: https://github.com/miguelgrinberg/Flask-SocketIO
+Github: miguelgrinberg/Flask-SocketIO
+Bugtracker: https://github.com/miguelgrinberg/Flask-SocketIO/issues
+Documentation: https://pythonhosted.org/Flask-SocketIO
+PyPI: Flask-SocketIO
+License: MIT
+Status: active

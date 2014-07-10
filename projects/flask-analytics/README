@@ -1,0 +1,3 @@
+Flask-Analytics
+
+Flask Analytics is an extension for Flask which generates analytics snippets for services like Google Analytics, Piwik, Gaug.es, etc. which can be included in templates.

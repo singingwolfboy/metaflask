@@ -1,0 +1,4 @@
+Flask-Principal
+
+The Flask-Principal extension identity management features to a flask application.
+This extension was originally written by Ali Afshar.

@@ -1,0 +1,4 @@
+Flask-HTTPAuth
+
+The Flask-HTTPAuth project adds basic and digest HTTP authentication to Flask
+applications.

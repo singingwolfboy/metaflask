@@ -1,0 +1,4 @@
+Flask-Mail
+
+The Flask-Mail extension adds simple email sending capabilities to a Flask application.
+It was originally authored by Dan Jacob and previously maintained by Ron DuPlain.

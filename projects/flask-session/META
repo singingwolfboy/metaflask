@@ -1,0 +1,8 @@
+Name: Flask-Session
+Website: https://github.com/fengsp/flask-session
+Github: fengsp/flask-session
+Bugtracker: https://github.com/fengsp/flask-session/issues
+Documentation: http://pythonhosted.org/Flask-Session/
+PyPI: Flask-Session
+License: BSD
+Status: active

@@ -1,0 +1,8 @@
+Name: Flask-Mail
+Website: https://github.com/mattupstate/flask-mail
+Github: mattupstate/flask-mail
+Bugtracker: https://github.com/mattupstate/flask-mail/issues
+Documentation: https://pythonhosted.org/Flask-Mail/
+PyPI: Flask-Mail
+License: MIT
+Status: active

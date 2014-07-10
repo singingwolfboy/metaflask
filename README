@@ -7,6 +7,11 @@
     closest equivalent to stewardship that Flask has and currently
     starting up.
 
+    Some of the information of this repository is available at
+    http://metaflask.pocoo.org/ as a read-only JSON API.
+
+    An IRC Channel exists at #metaflask on irc.freenode.net
+
   What does it do?
 
     The Metaflask project's aim is to ensure that the Flask ecosystem
@@ -21,6 +26,21 @@
     through the Metaflask project being a dictatorship.  As such the
     Metaflask project does not really have a clear form of governance.
     It is whatever the members of the project decide it is.
+
+  How do I add my project?
+
+    You do not need to be a member to add your project.  Just send a
+    pull request against this repository with your own project added
+    and off you go.  Do not add a steward to the project.  Someone will
+    add it later.  Not all projects will have stewards at the beginning.
+
+  How do projects get stewards?
+
+    Any member can become a steward for a project.  For more information
+    see stewardship below.  To see projects that currently do not have
+    members this API lists them all:
+    
+    http://metaflask.pocoo.org/needs-stewards
 
   Who are the members?
 
@@ -40,7 +60,9 @@
     Whether you are accepted as member or not is arbitrary and the decision
     is made in an even more arbitrary process by the members of
     Metaflask.  Rejections can be challenged by flamewars on the closed
-    issue.
+    issue.  On a more serious note: each member added needs a sponsor
+    who is a person already on Metaflask.  There is no formalized process
+    beyond that at the moment but maybe there should be a voting process.
 
   What privileges do members have?
 

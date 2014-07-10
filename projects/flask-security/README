@@ -1,0 +1,5 @@
+Flask-Security
+
+The Flask-Security project is an extension for Flask that adds common
+security features to an application such as user logins, registration,
+and password management.

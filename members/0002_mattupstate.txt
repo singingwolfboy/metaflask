@@ -2,6 +2,7 @@ Name: Matt Wright
 Twitter: @mattupstate
 Github: mattupstate
 Email: matt@nobien.net
+Sponsor: mitsuhiko
 
 Contributor to Flask. Author of Flask-Security, Flask-Social, 
 Flask-JWT, and a few other trivial extensions. Maintainer of 

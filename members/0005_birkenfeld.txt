@@ -1,6 +1,7 @@
 Name: Georg Brandl
 Github: birkenfeld
 E-Mail: georg@python.org
+Sponsor: mitsuhiko
 
 Georg Bandl is a Pocoo member and has access to lots of the resources
 behind Flask.  In case something is on fire he might be able to jump in.

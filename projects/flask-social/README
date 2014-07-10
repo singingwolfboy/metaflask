@@ -1,0 +1,5 @@
+Flask-Social
+
+The Flask-Social project is a "sidekick" extension for the Flask-Security
+extension. It adds social network integration to a Flask-Security enabled
+application.
