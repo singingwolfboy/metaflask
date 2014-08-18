@@ -1,0 +1,8 @@
+Name: Flask JSON-RPC
+Website: https://github.com/cenobites/flask-jsonrpc
+Github: cenobites/flask-jsonrpc
+Bugtracker: https://github.com/cenobites/flask-jsonrpc/issues
+Documentation: https://github.com/cenobites/flask-jsonrpc/wiki
+PyPI: Flask-JSONRPC
+License: New BSD
+Status: active
