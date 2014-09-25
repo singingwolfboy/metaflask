@@ -1,0 +1,7 @@
+Name: Michael herman
+Twitter: @realpython
+Github: mjhea0
+Email: michael@mherman.org
+Sponsor: <3
+
+Creator and maintainer of a number of Flask projects and tutorials - including Real Python, Discover Flask, flask-stripe, flask-boilerplate, flaskr-tdd, among others.
