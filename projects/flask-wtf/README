@@ -1,4 +1,4 @@
 Flask-WTF
 
 Simple integration of Flask and WTForms, including CSRF, file upload and
-Recaptcha integration. It was started and is maintained by Hsiaoming Yang.
+Recaptcha integration. It is maintained by Hsiaoming Yang.

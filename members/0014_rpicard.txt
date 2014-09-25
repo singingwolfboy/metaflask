@@ -1,0 +1,9 @@
+Name: Robert Picard
+Twitter: @__rlp
+Github: rpicard
+Email: robert@robert.io
+Sponsor: untitaker
+
+Author of the book "Explore Flask" (http://exploreflask.com),
+a book about best practices and patterns for developing
+web applications with Flask.
