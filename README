@@ -66,8 +66,10 @@
 
   What privileges do members have?
 
-    Members do not have any implied privileges as such.  Primarily they
-    get write access to this repository.
+    Members do not have any implied privileges as such.  Primarily they get
+    write access to this repository and most organizational repositories in the
+    pocoo organization at GitHub. This does not include the main sourcecode
+    repositories for Flask, Werkzeug or Jinja.  https://github.com/pocoo
 
   Why would I want to become a member?
 
