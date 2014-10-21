@@ -1,6 +1,0 @@
-Name: Ling Thio
-Github: lingthio
-E-Mail: ling.thio@gmail.com
-Sponsor: 0003_untitaker
-
-Ling Thio is the maintainer of Flask-User.
