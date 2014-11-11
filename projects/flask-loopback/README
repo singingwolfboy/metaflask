@@ -1,0 +1,5 @@
+Flask-Loopback
+
+Flask-Loopback enables you to use written Flask applications in your code to mock actual web services. This is accomplished by patching the popular *requests* library, thus enabling you to communicate with your flask app as if it were installed on a real server.
+
+It is especially useful for unit-testing client code against the real flask application instead of having to write a complicated mock of your own.
