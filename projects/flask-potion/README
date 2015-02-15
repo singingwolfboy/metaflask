@@ -2,4 +2,3 @@ Flask-Potion
 
 Flask-Potion is an extension for writing RESTful APIs for models defined with Flask-SQLAlchemy and other data sources.
 API endpoints in Flask-Potion are automatically documented and validated using JSON Hyper-Schema.
-
