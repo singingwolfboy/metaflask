@@ -1,7 +1,7 @@
 Name: Phil Howell
 Github: immunda
 Twitter: immunda
-E-Mail: phil@fictivekin.com
+E-Mail: phil@quae.co.uk
 Sponsor: mitsuhiko
 
 One of the maintainers of the Flask-SQLAlchemy project.
