@@ -1,0 +1,8 @@
+Name: Flask-Cors
+Website: https://github.com/corydolphin/flask-cors
+Github: corydolphin/flask-cors
+Bugtracker: https://github.com/corydolphin/flask-cors/issues
+Documentation: http://flask-cors.readthedocs.org/en/latest/
+PyPI: Flask-CORS
+License: MIT
+Status: active
