@@ -1,0 +1,3 @@
+Flask-CORS
+
+Flask-Cors is an extension which adds handling of Cross Origin Resource Sharing (CORS), making cross-origin AJAX easy.
