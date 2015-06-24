@@ -1,7 +1,7 @@
 Name: Flask-Admin
 Website: http://flask-admin.org/
-Github: mrjoes/flask-admin
-Bugtracker: https://github.com/mrjoes/flask-admin/issues
+Github: flask-admin/flask-admin
+Bugtracker: https://github.com/flask-admin/flask-admin/issues
 Documentation: http://flask-admin.readthedocs.org/en/latest/
 PyPI: Flask-Admin
 License: BSD
