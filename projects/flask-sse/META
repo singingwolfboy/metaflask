@@ -1,0 +1,8 @@
+Name: Flask-SSE
+Website: https://github.com/singingwolfboy/flask-sse
+Github: singingwolfboy/flask-sse
+Bugtracker: https://github.com/singingwolfboy/flask-sse/issues
+Documentation: https://flask-sse.readthedocs.org
+PyPI: Flask-SSE
+License: MIT
+Status: active

@@ -1,0 +1,3 @@
+Flask-SSE
+
+A Flask extension for HTML5 server-sent events support, powered by Redis.
